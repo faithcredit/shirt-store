@@ -1,0 +1,33 @@
+#siteorigin-installer-notice {
+	padding-right: 38px;
+	position: relative;
+}
+#siteorigin-installer-notice .siteorigin-notice-dismiss {
+position: absolute;
+top: 0;
+right: 1px;
+border: none;
+margin: 0;
+padding: 9px;
+background: none;
+color: #787c82;
+cursor: pointer;
+text-decoration: none;
+}
+#siteorigin-installer-notice .siteorigin-notice-dismiss:before {
+	background: none;
+	color: #787c82;
+	content: '\f153';
+	display: block;
+	font: normal 16px/20px 'dashicons';
+	speak: none;
+	height: 20px;
+	text-align: center;
+	width: 20px;
+	-webkit-font-smoothing: antialiased;
+}
+
+#siteorigin-installer-notice .siteorigin-notice-dismiss:focus:before,
+#siteorigin-installer-notice .siteorigin-notice-dismiss:hover:before {
+	color: #d63638;
+}

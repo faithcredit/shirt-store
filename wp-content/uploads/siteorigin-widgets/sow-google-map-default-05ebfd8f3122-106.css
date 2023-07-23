@@ -1,0 +1,13 @@
+.so-widget-sow-google-map-default-05ebfd8f3122-106 .sow-google-map-canvas {
+  height: 480px;
+}
+.so-widget-sow-google-map-default-05ebfd8f3122-106 .sow-google-map-canvas img {
+  border-radius: 0;
+  box-shadow: none;
+  line-height: normal;
+  max-width: none;
+  zoom: normal;
+}
+.so-widget-sow-google-map-default-05ebfd8f3122-106 .sow-google-map-canvas div:not(.gm-style-iw-t):not(.gm-style-iw) {
+  position: initial;
+}
